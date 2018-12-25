@@ -7,7 +7,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int input = scanner.nextInt();
         int a = Dacpart.pow2(input);
-        System.out.println("voroodi be tavane 2 mishe :" + a);
+        System.out.println("Square of input is : " + a);
 
     }
 }
