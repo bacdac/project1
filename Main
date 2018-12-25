@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Square of input is : " + a);
         int b = Farshidpart.pow3(input);
         System.out.println("cube of input is : " + b);
+        System.out.println("Thank you for using this collective project :)))");
     }
 }
