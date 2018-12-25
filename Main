@@ -6,8 +6,8 @@ public class Main {
         System.out.println("enter your number");
         Scanner scanner = new Scanner(System.in);
         int input = scanner.nextInt();
-        int a ;
+        int a = Dacpart.pow2(input);
         System.out.println("voroodi be tavane 2 mishe :" + a);
-        
+
     }
 }
